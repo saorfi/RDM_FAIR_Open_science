@@ -71,12 +71,20 @@ Bei der Entwicklung von Software wird vielfach auf Open-Source - Software zurüc
 #### OpenAire AMKE strategy
 [Strategy side for 2023-2025](https://www.openaire.eu/strategy-2023-25)
 
+#### Open Science Corner: Gamifying OS Tools and Services
+* [Learning paths](https://www.openaire.eu/open-science-corner-gamifying-open-science-tools-and-services?idU=2)
+
 
 
 ### Policy
 
 #### Open Science Policy in den USA
 * Updated the White House Office of Science and Rechnology open- Science Policy [News](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/)
+
+#### Open Science Policy von Helmholtz
+* Richtlinie wurde am 20.09.2022 beschlossen
+[Über Policy](https://os.helmholtz.de/open-science-in-helmholtz/open-science-policy/)
+* [Helmholtz Open Science Policy](https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_5013535)
 
 #### CERN open science policy
 Complete [CERN Open science Policy](https://cds.cern.ch/record/2835057/files/CERN-OPEN-2022-013.pdf)- Oktober 2022
@@ -96,7 +104,11 @@ Complete [CERN Open science Policy](https://cds.cern.ch/record/2835057/files/CER
 * wie sich FD-Policies für Forschungsprojekte von DMPs und Kooperationsverträgen abgrenzen lassen
 * Im Rahmen des Projektes hat TU Berlin einen [Leitfaden](https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/27d750a2-53f4-46dd-86ad-43bbfe170688/content) und ein Online-Gerneator für FD-Policies entwickelt
 
+##### Impulse der nordrhein-westfälischen Landesinitiative für Forschungsdatenmanagement - fdm.nrw für eine FDM-Landesstrategie
+ [FDM_NRW- politische Entwicklung ](https://zenodo.org/record/6405999#.Y6Bi47aZObh)
 
+##### Helmholtz Open Science Forum - Forschungssoftware
+[Forschungssoftware Helmolth Open Science](https://gfzpublic.gfz-potsdam.de/rest/items/item_5014804_3/component/file_5014805/content)
 
 
 ## Open Access
@@ -115,14 +127,24 @@ Veröffentlich : [DINI- Zertifikat für Open-Access- Publikationsdienste 2022](h
 ### OPenAccess- ZBMED
 * [Open Access Week](https://www.zbmed.de/ueber-uns/presse/neuigkeiten-aus-zb-med/artikel/einladung-international-open-access-week-2022/)- Oktober Zertifikat_2022_WEB
 
-### Open Access- Rechtedokumentation in Repositorien 
+### Open Access- Rechtedokumentation in Repositorien
 * [Rechtedokumentation in Repositorien](https://blogs.tib.eu/wp/dini-ag-blog/2022/10/31/wer-hat-dir-das-erlaubt-rechtedokumentation-in-repositorien/)
 * Beispiel Zweitveröffentlichung von Closed Access to open Access
 * Neben Metadaten, der Datei und online stellen gehört auch Lizenz und Zugangsrecht wichtig
 * Sollten in den MEtadaten verankert sein.
+* Referenz zu [Positionspapier von DINI](https://edoc.hu-berlin.de/bitstream/handle/18452/23812/DINI2022_Repositorienmetadaten.pdf?sequence=3&isAllowed=y)- Dokumentation der Rechtsgrundlage für veröffentlichungen in Repositorienmetadaten
 
+### Open Access network
+* [BMBF projekt Open sccess network](https://open-access.network/ueber-uns/oa-network)
+*
 
+## Open Data
 
+### NFDI Positionspapier
+* [Recht auf Datenzugang für öffentliche Forschung schafft gesellschaftlichen Mehrwert](https://www.nfdi.de/positionspapier-recht-auf-datenzugang-fuer-oeffentliche-forschung-schafft-gesellschaftlichen-mehrwert/)
+* Zugang zu Daten zu regeln
+* NFDI-Verein unterstützt die Aufnahme eines direkten Datenzugangrechts für die öffentliche Forschung.
+* [Positionspapier]()
 
 
 ## FAIR
@@ -131,6 +153,16 @@ Veröffentlich : [DINI- Zertifikat für Open-Access- Publikationsdienste 2022](h
 
 #### 1st International Conference on FAIR Digital Objects
 * [past conference] (https://www.fdo2022.org/)
+
+#### FAIR Assessment
+
+##### Community-driven Governance of FAIRness Assessment:
+[An Open Issue, an Open Discussion](https://www.eosc.eu/sites/default/files/2022-12/Community-driven%20Governance%20of%20FAIRness%20Assessment.pdf?utm_source=newsletter&utm_medium=email&utm_campaign=20221206_december)
+* Coming from EOSC FAIR Metrics and Data Quality Task Force
+
+### FAIR research Software
+Publikation 2022: [Introducing the FAIr principles for research software](https://www.nature.com/articles/s41597-022-01710-x)
+
 
 ## Metadata
 
@@ -270,3 +302,12 @@ as crucial for the quality and reproducibility of research findings only in rece
 [Think.Check.Submit](https://thinkchecksubmit.org/2022/08/18/new-think-check-submit-website/)
 Tool to avoid predatory publishing .
 Provides checklists
+
+
+
+## Quality
+
+### Part 1: Data quality assurance from the perspective of a repository registry and certification organization
+### Part 2: Repositories sharing their approach to quality management
+
+[Part 1 and Part 2](https://coref.project.re3data.org/blog/workshop_materials)
