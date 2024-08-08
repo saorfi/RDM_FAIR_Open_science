@@ -74,7 +74,12 @@ Bei der Entwicklung von Software wird vielfach auf Open-Source - Software zurüc
 #### Open Science Corner: Gamifying OS Tools and Services
 * [Learning paths](https://www.openaire.eu/open-science-corner-gamifying-open-science-tools-and-services?idU=2)
 
+#### Open Science Career Profiles
+* [Zenodo publication Catalogue of open scienc profiles](https://zenodo.org/records/8101903)
+Put the PDF also in the folder
 
+#### Open Science Self- Assessment
+[Open Science self assessment - road 2 openness ](https://road2openness.de/tool/)
 
 ### Policy
 
@@ -94,6 +99,10 @@ Complete [CERN Open science Policy](https://cds.cern.ch/record/2835057/files/CER
 * Published 2021
 * [Recommendataions](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en)
 
+#### Aktionsplan zur Reform Forschungsbewertung
+[EU- Kommission- Forschungsbewertung](https://www.kooperation-international.de/aktuelles/nachrichten/detail/info/eu-kommission-aktionsplan-zur-reform-der-forschungsbewertung)
+
+
 #### Forschungsdaten-Policy
 
 ##### FD Mentor
@@ -109,6 +118,46 @@ Complete [CERN Open science Policy](https://cds.cern.ch/record/2835057/files/CER
 
 ##### Helmholtz Open Science Forum - Forschungssoftware
 [Forschungssoftware Helmolth Open Science](https://gfzpublic.gfz-potsdam.de/rest/items/item_5014804_3/component/file_5014805/content)
+
+##### FDM-Scouts- FDM_NRW
+[FDM Scouts github](https://fdmscouts-nrw.github.io/Wissensbasis/)
+Scheint auch eine Art Training zu sein, nennt sich Wissensbasis
+
+
+#### Train the Trainer FDM
+[Deutsches Train the trainer material](https://zenodo.org/records/5773203) - Bzw. [Neuere Version :](https://zenodo.org/records/10122153)
+[Englisches Train the trainer]
+
+
+#### FDM-MV / Datenkompass
+[Ressource für Dokumente](https://nextcloud.uni-greifswald.de/index.php/s/GD97J7XdWFo9w83?path=%2FWorking%20Sessions)
+- gibt eigene Lesezeichen bei Sarah in Edge
+[Projektmanagement-seite] (https://projektmgmt.uni-greifswald.de/meetings/714)
+
+
+#### Research Management and Adminitsration (RMA)
+Zu diesem Stichwort gibt es mehrere intitativen europäisch  und international. Da gab es auch entsprechende Konferenzen / gibt es auch in diesem Jahr. Eventuell sind da noch andere interessanten Vorträge zu finden
+[EARMC Conference 2024] (https://earma.org/conferences/earma-conference-odense-2024/programme/)
+[INorms Conference 2025] (https://earma.org/conferences/inorms-congress-madrid-2025/guide-abstract-proposers/)
+
+#### Leitfaden zur digitalen Datensparsamkeit
+[Leitfaden Digitale Datensparsamkeit](https://www.o-bib.de/bib/article/view/6036/9140) - [Folien dazu] (https://zenodo.org/records/11941238) [mit Praxisbeispielen] (https://zenodo.org/records/11445843)
+
+#### Forschungsdatenmanagement der Uni Köln
+Beinhaltet ein paar interessante Lings : [FDM- Köln] (https://www.th-koeln.de/forschung/forschungsdatenmanagement_52640.php#sprungmarke_1_11)
+
+#### Coursera Kurs -  Verwaltung und nutzung von Forschungsdaten
+[Coursera- FDM] (https://www.coursera.org/learn/data-management)
+
+#### Forschungsdatenmanagement - online einführung von HefDi / NFDI4BD
+[FDM_ einführung- Ilias](https://ilias.uni-marburg.de/ilias.php?baseClass=illmpresentationgui&obj_id=325545&ref_id=2457008)
+
+
+#### Data Management
+One which refers to Data Sharing Policy
+[Dataverse PRoject](https://dataverse.org/best-practices/data-management)
+
+Management von Forschungsdaten DINI-Schriften 2022 [DINI standard](https://edoc.hu-berlin.de/bitstream/handle/18452/26130/2022DINI-Management_von_Forschungsinformationen.pdf?sequence=6&isAllowed=y)
 
 
 ## Open Access
@@ -138,6 +187,11 @@ Veröffentlich : [DINI- Zertifikat für Open-Access- Publikationsdienste 2022](h
 * [BMBF projekt Open sccess network](https://open-access.network/ueber-uns/oa-network)
 *
 
+### oa. finder
+Tool für Suche nach open Access fördermöglichkeiten
+Erstmal ein Vorstellung des Tools hier [Vorstellung oa.finder](https://grypstube.uni-greifswald.de/w/nNpFME6QcdUkLKv6nkVn1R)
+[oa.finder] (https://finder.open-access.network/)
+
 ## Open Data
 
 ### NFDI Positionspapier
@@ -163,6 +217,14 @@ Veröffentlich : [DINI- Zertifikat für Open-Access- Publikationsdienste 2022](h
 ### FAIR research Software
 Publikation 2022: [Introducing the FAIr principles for research software](https://www.nature.com/articles/s41597-022-01710-x)
 
+### Licensing R Packages
+[Licensing of R packagers](https://r-pkgs.org/license.html#license-data)
+[Overview of R licenses](https://www.r-project.org/Licenses/)
+[Book- Licensing R] (https://thinkr-open.github.io/licensing-r/)
+
+
+### Fuji Tools
+ [Fuji Data/ publication assessment](https://www.fairsfair.eu/f-uji-automated-fair-data-assessment-tool)
 
 ## Metadata
 
@@ -311,3 +373,8 @@ Provides checklists
 ### Part 2: Repositories sharing their approach to quality management
 
 [Part 1 and Part 2](https://coref.project.re3data.org/blog/workshop_materials)
+About quality management at Research data Repositories [re3data quality](https://coref.project.re3data.org/blog/workshop_materials)
+Corresponding paper [Quality - reserach data repositories](https://datascience.codata.org/articles/10.5334/dsj-2022-018)
+
+## Data
+[Data wrangling] (https://www.alexanderthamm.com/de/blog/data-wrangling-kompakt-erklaert/)
